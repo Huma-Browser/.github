@@ -1,5 +1,6 @@
 We Love Japanese <3
- ![Huma Browser](image.png)
+![image](https://github.com/user-attachments/assets/514de8f9-e6d1-43fc-b568-2bc2ce1433ae)
+
 
 
 
